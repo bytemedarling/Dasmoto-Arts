@@ -1,3 +1,8 @@
+/* sanity check */
+html {
+  background: #ffe9e9 !important;
+}
+
 /* Banner/Header */
 .header {
   background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
