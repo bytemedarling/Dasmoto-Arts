@@ -21,10 +21,11 @@
   font-size: 32px;
   font-weight: bold;
   color: white;
+  padding: 6px 10px; /*space around text */
 }
 
 .brush {
-  background-color: mediumspringgreen;
+  background-color: mediumspringgreen; 
 }
 
 .frames {
@@ -33,4 +34,11 @@
 
 .paint {
   background-color: skyblue;
+}
+
+/* Paragraphs */
+
+
+p {
+  font-size: 5px;
 }
