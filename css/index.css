@@ -24,15 +24,15 @@
   padding: 6px 10px; /*space around text */
 }
 
-.brush {
+.section-header.brush {
   background-color: mediumspringgreen; 
 }
 
-.frames {
+.section-header.frames {
   background-color: lightcoral;
 }
 
-.paint {
+.section-header.paint {
   background-color: skyblue;
 }
 
