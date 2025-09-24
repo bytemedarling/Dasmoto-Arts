@@ -32,15 +32,18 @@
 
 .section-header.frames {
   background-color: lightcoral;
-    color: white; /* for white text */
+  color: white; /* for white text */
 }
 
 .section-header.paint {
   background-color: skyblue;
-    color: white; /* for white text */
+  color: white; /* for white text */
 }
 
 h2 {
   font-family: Helvetica;
+  font-size: 32px;
   font-weight: bold;
+  color: white;
+
 }
